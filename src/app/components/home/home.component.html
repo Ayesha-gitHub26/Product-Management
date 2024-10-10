@@ -1,0 +1,10 @@
+<div class="p-8 mt-4">
+  <div class="flex mb-4">
+    <app-search (search)="onSearch($event)"></app-search>
+  </div>
+  <div class="flex flex-wrap">
+    <div class="w-4/12 pr-2 mb-2" *ngFor="let item of filteredProduct; let i = index">
+      <app-product-card [product]="item" (viewProduct)="onViewProduct(item)"></app-product-card>
+    </div>
+  </div>
+</div>

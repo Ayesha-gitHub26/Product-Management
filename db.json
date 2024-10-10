@@ -1,0 +1,103 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Buldak Spicy Noodles Korean New",
+      "brand": "ShinRamyun",
+      "image": "https://images.unsplash.com/photo-1687890425844-0d44b1db24e2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8M3x8fGVufDB8fHx8fA%3D%3D",
+      "CurrentPrice": "",
+      "standardPrice": "550",
+      "discount": "20"
+    },
+    {
+      "id": "2",
+      "brand": "Here&Now",
+      "image": "https://plus.unsplash.com/premium_photo-1723563578755-17877914f31d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Nnx8fGVufDB8fHx8fA%3D%3D",
+      "currentPrice": "1659",
+      "standardPrice": "2000",
+      "discount": "34",
+      "name": "Wooden Shine Tan Tray"
+    },
+    {
+      "id": "3",
+      "name": "Mansion new",
+      "brand": "Travel&Living",
+      "image": "https://images.unsplash.com/photo-1719094251938-e596af9261de?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8OHx8fGVufDB8fHx8fA%3D%3D",
+      "CurrentPrice": "",
+      "standardPrice": "300000",
+      "discount": "28"
+    },
+    {
+      "id": "4",
+      "brand": "Westside",
+      "image": "https://images.unsplash.com/photo-1710830549028-8d008023c72f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8OXx8fGVufDB8fHx8fA%3D%3D",
+      "currentPrice": "20,600",
+      "standardPrice": "30000",
+      "discount": "50",
+      "name": "Couch/Diwan"
+    },
+    {
+      "id": "5",
+      "brand": "Construct the Build",
+      "image": "https://images.unsplash.com/photo-1723591808749-e05a287b9ef3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8N3x8fGVufDB8fHx8fA%3D%3D",
+      "currentPrice": "15000",
+      "standardPrice": "30000",
+      "discount": "50",
+      "name": "Steel Bars"
+    },
+    {
+      "id": "6",
+      "brand": "Here&Now",
+      "image": "https://plus.unsplash.com/premium_photo-1723669629793-24dba60d5922?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTB8fHxlbnwwfHx8fHw%3D",
+      "currentPrice": "18000",
+      "standardPrice": "30000",
+      "discount": "45",
+      "name": "Dim/Shady Lights"
+    },
+    {
+      "id": "1",
+      "brand": "ShinRamyun",
+      "image": "https://images.unsplash.com/photo-1687890425844-0d44b1db24e2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8M3x8fGVufDB8fHx8fA%3D%3D",
+      "currentPrice": "350",
+      "standardPrice": "550",
+      "discount": "20",
+      "name": "Buldak Spicy Noodles"
+    },
+    {
+      "id": "2",
+      "brand": "Here&Now",
+      "image": "https://plus.unsplash.com/premium_photo-1723563578755-17877914f31d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Nnx8fGVufDB8fHx8fA%3D%3D",
+      "currentPrice": "1659",
+      "standardPrice": "2000",
+      "discount": "34",
+      "name": "Wooden Shine Tan Tray"
+    },
+    {
+      "id": "3",
+      "brand": "Travel&Living",
+      "image": "https://images.unsplash.com/photo-1719094251938-e596af9261de?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8OHx8fGVufDB8fHx8fA%3D%3D",
+      "currentPrice": "1500000",
+      "standardPrice": "300000",
+      "discount": "28",
+      "name": "Mansion"
+    },
+    {
+      "id": "4",
+      "brand": "Westside",
+      "image": "https://images.unsplash.com/photo-1710830549028-8d008023c72f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8OXx8fGVufDB8fHx8fA%3D%3D",
+      "currentPrice": "20,600",
+      "standardPrice": "30000",
+      "discount": "50",
+      "name": "Couch/Diwan"
+    },
+    {
+      "id": "0",
+      "name": "MOTOROLA EnvisionX Spectra 127 cm (50 inch) Ultra HD (4K) Mini LED Smart Google TV 2024 Edition with Dolby Vision & Dolby Atmos  (50UHDGMMWKRQ)",
+      "brand": "Motorola",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/2/x/l/-original-imahydtgxmjan56q.jpeg?q=70",
+      "currentPrice": "35000",
+      "standardPrice": "40000",
+      "discount": "15"
+    }
+  ]
+}
